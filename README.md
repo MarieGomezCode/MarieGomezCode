@@ -4,11 +4,7 @@
 <h1 align="left">Hi 👋, Welcome to my profile</h1>
 <h3 align="left">Estudiante Desarrollo de Software</h3>
 <p align="left">"El progreso y desarrollo de soluciones a través del software🌐 es un  proceso de transformación donde las necesidades se encuentran con la innovación. Desde la identificación de requerimientos hasta la implementación de soluciones.  En este continuo avance, los desarrolladores se convierten en arquitectos digitales💻, dando forma a un mundo más eficiente, conectado y accesible para todos🛠️."</p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
-</p>
+
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
