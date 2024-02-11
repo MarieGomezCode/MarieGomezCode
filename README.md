@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/supuna97/supuna97/main/supun-new.png)
+![logo](https://mir-s3-cdn-cf.behance.net/projects/404/59053c183008103.Y3JvcCwyNTU2LDIwMDAsMjIxLDA.jpg)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Supun Nanayakkara</h1>
