@@ -29,7 +29,7 @@
 
 - 🔭  Actualmente soy practicante en **Sophos Solutions**
 
-- 🌱 Actualmente estoy aprendiendo **Devops**
+- 🌱 Actualmente estoy aprendiendo **Devops, aws, Docker**
 
 - 👨‍💻 Todos mis proyectos están disponibles en el espacio <a href="https://corporativo.compensar.com/vivienda/Biblioteca%20de%20estilos/webparts/desistidos/img/render/render-los-ocobos.jpg">Enlace</a>
 
