@@ -31,7 +31,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Devops**
 
-- 👨‍💻 Todos mis proyectos están disponibles en el espacio <a href="https://fern-magnolia-352.notion.site/Porfolio-47e1c4edc12246319af401329711d9df?pvs=4">Aquí</a>
+- 👨‍💻 Todos mis proyectos están disponibles en el espacio <a href="https://fern-magnolia-352.notion.site/Porfolio-47e1c4edc12246319af401329711d9df?pvs=">Aquí</a>
 
 - 💬 Ask me about **Java, C# y .NET**
 
