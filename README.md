@@ -18,7 +18,7 @@
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
- <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
 </div>
 
 <br>
@@ -56,7 +56,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,hibernate,py" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,hibernate" />
   </a>
 </p>
 
