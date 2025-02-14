@@ -31,7 +31,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Devops**
 
-- 👨‍💻 Todos mis proyectos están disponibles en el espacio <a href="#">Aquí</a>
+
 
 - 💬 Ask me about **Java, C# y .NET**
 
