@@ -1,5 +1,8 @@
-
- <img align="center" src="https://github.com/MarieGomezCode/MarieGomezCode/blob/main/banering.png" width="100%" style="border-radius:40px;" >
+<div style="border-radius:20px; overflow:hidden; display:inline-block; width:100%;">
+  <img src="https://github.com/MarieGomezCode/MarieGomezCode/blob/main/banering.png" 
+       width="100%" 
+       style="display:block;">
+</div>
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, Welcome to my profile</h1>
